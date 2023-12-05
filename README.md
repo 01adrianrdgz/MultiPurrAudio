@@ -24,4 +24,4 @@ the software is licensed under BSD-3 Clause License. The mascot (MultiPurr3) and
 # screenshots!!
 ![screenshot1](https://github.com/01adrianrdgz/MultiPurrAudio/assets/149033599/e046794b-36f6-4528-9ad9-ab4c1000e6d8)
 ![screenshot2](https://github.com/01adrianrdgz/MultiPurrAudio/assets/149033599/c3d6b8dc-7119-4f46-a267-011d1aa0fefc)
-
+![MPA running on chromeOS](https://github.com/01adrianrdgz/MultiPurrAudio/assets/149033599/3eb13d0a-2f47-4a03-add3-de44002e4c04)
